@@ -4,8 +4,17 @@
   "Auteur": "Hattori Mitsuru",
   "cover": "https://miammiam-team.org/wp-content/uploads/2019/01/kis.jpg",
   "chapters": {
+    "9": {
+      "title": "Les couleurs de Kon et Furuka (9)",
+       "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/jDmChk8/"
+      },
+      "last_updated": "1625307464"
+    },
+      "chapters": {
     "10": {
-      "title": "Les couleurs de Kon et Furuka (10) ",
+      "title": "Les couleurs de Kon et Furuka (10)",
        "volume": "1",
       "groups": {
         "MiamMiam Team": "/proxy/api/imgur/chapter/z7bCSP0/"
